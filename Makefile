@@ -3,6 +3,7 @@ cat:
 	cat Makefile
 
 publish:
+	cat ~/token.txt
 	git add --all .
 	git commit -m "AutoUpdate from Make tony - Jan-2022"
 	git push
