@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+#products: ['etasw','srf','dd','netet', 'etasw5','etc','rain','snowmelt','snwpk','swe','swf','swi']
+# enduser_products: ['etasw','srf','dd','netet','etc','rain','swf']
+# olena_additional_qa_products:  ['etasw5','snowmelt','snwpk','swe','swi']
+
+#products: ['etasw','srf','dd','netet','etc','rain','swf']
+
+products: ['dd','netet']
+
+start_year: 1999
+end_year: 2003
+
+unmosaicked_input: 'out/CONUS/Run03_26_2021/'
+enduser_cog_output: 'enduser/CONUS/r40tile6/'
+
+max_concurrent_containers: 12
+=======
+products: ['etasw','srf','dd','netet', 'etasw5','etc','rain','snowmelt','snwpk','swe','swf','swi']
+start_year: 2000
+end_year: 2019
+
+unmosaicked_input: 'out/DelawareRiverBasin/Run03_18_2021/'
+enduser_cog_output: 'enduser/DelawareRiverBasin/wes_zell_15pct/'
+
+max_concurrent_containers: 24
+>>>>>>> e817c90610a1793e915f801eaa23a23113fc13a0
+max_cpu_percent: 220
+min_memory_available: 4
+
+sleep_time: 10

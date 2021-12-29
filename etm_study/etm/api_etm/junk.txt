@@ -1,0 +1,120 @@
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-73.72E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-74.74E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/rain_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/swe_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-75.77E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip39.84N-76.79E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-73.72E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-74.74E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-75.77E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/rain_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/swe_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip41.33N-76.79E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-73.72E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-74.74E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/rain_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-75.77E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/dd_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/rain_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/snowmelt_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/snwpk_1950001.tif
+2020-10-07 15:26:15    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/srf_1950001.tif
+2020-10-07 15:26:14    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/swe_1950001.tif
+2020-10-07 15:26:13    2.7 MiB out/DelawareRiverBasin/Run10_07_2020/run_drb150y_chip42.81N-76.79E_o/1950/swi_1950001.tif
+
+Total Objects: 7
+   Total Size: 18.8 MiB

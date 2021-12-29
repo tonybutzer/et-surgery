@@ -1,0 +1,15 @@
+#products: ['etasw','srf','dd','netet', 'etasw5','etc','rain','snowmelt','snwpk','swe','swf','swi']
+
+products: ['etasw', 'netet']
+
+start_year: 2020
+end_year: 2021
+
+unmosaicked_input: 'ws-out/USA/Run08_12_2021/run_r50.0_tile5/r50.0_tile5/'
+enduser_cog_output: 'ws-enduser/USA/r50.0_tile5/'
+
+max_concurrent_containers: 60
+max_cpu_percent: 220
+min_memory_available: 30
+
+sleep_time: 10

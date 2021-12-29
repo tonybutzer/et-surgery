@@ -1,0 +1,44 @@
+digraph G {
+    graph [rankdir=TB];
+    subgraph cluster_G {
+
+        graph [style="filled,rounded",fillcolor="#80808018", label=""];
+	nodeTone
+        etmxclassxorchestrationxv3 [label="etmxclassxorchestrationxv3", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm [label="Etm", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3___return_mem_stat [label="_return_mem_stat", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__return_available_memory [label="return_available_memory", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__return_cpu_load [label="return_cpu_load", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm__MAIN_etm_runner [label="MAIN_etm_runner", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm____init__ [label="__init__", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm____repr__ [label="__repr__", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm___event_loop [label="_event_loop", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm___read_yml [label="_read_yml", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm___return_num_containers [label="_return_num_containers", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm___start_container [label="_start_container", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+        etmxclassxorchestrationxv3__Etm___start_etm [label="_start_etm", style="filled", fillcolor="#ffffffb2", fontcolor="#000000", group="0"];
+    }
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__Etm [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__return_cpu_load [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__return_available_memory [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3___return_mem_stat [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm___start_container [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm___return_num_containers [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm___read_yml [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm__MAIN_etm_runner [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm____init__ [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm___start_etm [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm____repr__ [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3__Etm -> etmxclassxorchestrationxv3__Etm___event_loop [style="dashed", color="#838b8b"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__Etm__MAIN_etm_runner [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__Etm [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3 -> etmxclassxorchestrationxv3__Etm____init__ [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__return_available_memory -> etmxclassxorchestrationxv3___return_mem_stat [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm____init__ -> etmxclassxorchestrationxv3__Etm___read_yml [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm__MAIN_etm_runner -> etmxclassxorchestrationxv3__Etm___event_loop [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm___start_etm -> etmxclassxorchestrationxv3__Etm___start_container [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm___event_loop -> etmxclassxorchestrationxv3__Etm___return_num_containers [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm___event_loop -> etmxclassxorchestrationxv3__return_available_memory [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm___event_loop -> etmxclassxorchestrationxv3__Etm___start_etm [style="solid", color="#000000"];
+        etmxclassxorchestrationxv3__Etm___event_loop -> etmxclassxorchestrationxv3__return_cpu_load [style="solid", color="#000000"];
+    }

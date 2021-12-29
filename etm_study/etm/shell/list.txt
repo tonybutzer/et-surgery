@@ -1,0 +1,13 @@
+run_r-35pct-012921-steff-2_chip39.84N-73.72E_o/
+run_r-35pct-012921-steff-2_chip39.84N-74.74E_o/
+run_r-35pct-012921-steff-2_chip39.84N-75.77E_o/
+run_r-35pct-012921-steff-2_chip39.84N-76.79E_o/
+run_r-35pct-012921-steff-2_chip41.33N-73.72E_o/
+run_r-35pct-012921-steff-2_chip41.33N-74.74E_o/
+run_r-35pct-012921-steff-2_chip41.33N-75.77E_o/
+run_r-35pct-012921-steff-2_chip41.33N-76.79E_o/
+run_r-35pct-012921-steff-2_chip42.81N-73.72E_o/
+run_r-35pct-012921-steff-2_chip42.81N-74.74E_o/
+run_r-35pct-012921-steff-2_chip42.81N-75.77E_o/
+run_r-35pct-012921-steff-2_chip42.81N-76.79E_o/
+

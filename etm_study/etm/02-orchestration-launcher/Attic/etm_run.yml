@@ -1,0 +1,11 @@
+# products: ['etasw','srf','dd','netet']
+products: ['srf','dd','netet']
+start_year: 1950
+end_year: 2019
+
+unmosaicked_input: 'out/DelawareRiverBasin/Run02_01_2021/'
+enduser_cog_output: 'enduser/DelawareRiverBasin/r_02_01_2021_drb15pct/'
+
+max_concurrent_containers: 36
+max_cpu_percent: 220
+min_memory_available: 4

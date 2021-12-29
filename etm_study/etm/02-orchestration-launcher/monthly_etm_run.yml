@@ -1,0 +1,19 @@
+#products: ['etasw','srf','dd','netet', 'etasw5','etc','rain','snowmelt','snwpk','swe','swf','swi']
+
+products: ['etasw', 'netet']
+
+start_year: 2020
+end_year: 2021
+
+unmosaicked_inputs: 
+        - 'ws-out/USA/Run08_23_2021/run_r50.0_tile6/r50.0_tile6/'
+          # - 'ws-out/USA/Run08_18_2021/run_r50.0_tile7/r50.0_tile7/'
+          # - 'ws-out/USA/Run08_18_2021/run_r50.0_tile8/r50.0_tile8/'
+          # - 'ws-out/USA/Run08_18_2021/run_r50.0_tile9/r50.0_tile9/'
+enduser_cog_output: 'ws-enduser/USA/TBD/'
+
+max_concurrent_containers: 60
+max_cpu_percent: 220
+min_memory_available: 30
+
+sleep_time: 1

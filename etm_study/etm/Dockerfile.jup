@@ -1,0 +1,9 @@
+FROM tbutzer/etm_docker_image
+
+
+RUN \
+        pip install --no-cache jupyter && \
+        pip install --no-cache docker 
+
+
+WORKDIR /home

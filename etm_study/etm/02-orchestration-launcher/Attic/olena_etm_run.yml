@@ -1,0 +1,12 @@
+products: ['etasw','srf','dd','netet', 'etasw5','etc','rain','snowmelt','snwpk','swe','swf','swi']
+start_year: 1950
+end_year: 1955
+
+unmosaicked_input: 'out/DelawareRiverBasin/Run03_13_2021/'
+enduser_cog_output: 'enduser/DelawareRiverBasin/olena_test_5yr/'
+
+max_concurrent_containers: 36
+max_cpu_percent: 220
+min_memory_available: 4
+
+sleep_time: 10

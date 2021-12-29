@@ -1,0 +1,9 @@
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2005 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2006 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2009 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2010 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2012 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2015 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2018 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y 2019 dd netet &
+docker run -i tbutzer/etm_docker_image python3 api_etm.py -i out/DelawareRiverBasin/Run09_13_2020/ -o enduser/DelawareRiverBasin/Run09_13_2020/ward_sandford_customer/ -y Annual dd netet &
